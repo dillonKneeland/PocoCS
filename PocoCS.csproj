@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Dillon Kneeland</Authors>
+    <Product>PocoCS</Product>
+    <Copyright>Copyright © 2020 Dillon Kneeland</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>2020.0.1.0</Version>
+  </PropertyGroup>
+
+</Project>
